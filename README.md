@@ -1,7 +1,12 @@
 Views Distinct
 ==============
  
-(NOTE: This is a port in progress. Please, help us test it and ready it for release.)
+(NOTE: A minimal amount of work has been invested in porting this module so far. 
+We know that it's now possible to install and enable this module without breaking
+views or generating immediate errors. We recommend additional testing before using
+this module on production sites. Since we are not using this module at the moment,
+we could use some testing on sites with a views duplication problem to verify the 
+module is having the intended effect.)
 
 
 CONTENTS OF THIS FILE
