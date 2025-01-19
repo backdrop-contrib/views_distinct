@@ -117,7 +117,45 @@ it's best if folks know about them:
       encounter this issue, uncheck the "Use the rendered output of this field"
       option.
 
+Installation
+------------
+<!--
+List the steps needed to install and configure the module. Add/remove steps as
+necessary.
+-->
+
+- Install this module using the official Backdrop CMS instructions at
+  https://docs.backdropcms.org/documentation/extend-with-modules.
+- TBC
+
+Issues
+------
+
+Bugs and Feature Requests should be reported in the Issue Queue:
+https://github.com/backdrop-contrib/views_distinct/issues.
+
+
+Current Maintainers
+-------------------
+
+- [Tim Erickson](https://github.com/stpaultim) - [Simplo by Triplo](https://simplo.site/)
+- Collaboration and co-maintainers welcome! 
 
 Credits
------------
+-------
+<!--
+Give credit where credit's due.
+If this is a Drupal port, state who ported it, and who wrote the original Drupal
+module. If this module is based on another project, or uses third-party
+libraries, list them here. You can also mention any organisations/companies who
+sponsored the module's development.
+-->
+
+Drupal maintainers:
 - Drupal Maintainer - jay.dansand (Jay Dansand)
+
+License
+-------
+
+This project is GPL v2 software.
+See the LICENSE.txt file in this directory for complete text.
