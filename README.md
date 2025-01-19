@@ -6,7 +6,10 @@ We know that it's now possible to install and enable this module without breakin
 views or generating immediate errors. We recommend additional testing before using
 this module on production sites. Since we are not using this module at the moment,
 we could use some testing on sites with a views duplication problem to verify the 
-module is having the intended effect.)
+module is having the intended effect.
+
+Readme is mostly based upon text ported from Drupal 7 version. We also welcome
+updates this this README to make it more Backdrop specific, if needed.)
 
 
 CONTENTS OF THIS FILE
